@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "1ba862a28dc0478ca94a0f2bf8689f4b6294ed2886dee3fdf9a10f4029110fa5"
 
@@ -4962,10 +4958,6 @@ metafile = true
 file = "mods/zoomify-2.15.1+1.20.1.pw.toml"
 hash = "07b0a113b5d5989bb9ebf18cf951661c244d6ee626bf4665236c13b34bdbb3eb"
 metafile = true
-
-[[files]]
-file = "push-update.bat"
-hash = "446ca3c446da970fe961aa9ce54a990ac0e1342e70b2d5e79ef0a0e2aee8dfb2"
 
 [[files]]
 file = "resourcepacks/Fancy_Beds-v4.1.pw.toml"
