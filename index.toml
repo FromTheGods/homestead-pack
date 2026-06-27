@@ -3073,6 +3073,1138 @@ file = "config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
+
+[[files]]
+file = "defaultconfigs/ftbquests/client-config.snbt"
+hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
+
+[[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
+
+[[files]]
+file = "emojiful/cache/100-1"
+hash = "5a8b64377c798517fee6caeca092092999e209d128e641c80389bd684888fdf1"
+
+[[files]]
+file = "emojiful/cache/alien-1"
+hash = "aafe7033207be88bd7168ce7728a0d99ea1c9c594d21219e09488d3c72212a1d"
+
+[[files]]
+file = "emojiful/cache/anger-1"
+hash = "04b6c135ab0793e4bb38f39013506f5ccabdf2e39e3b3df4da19ffeeef2780e8"
+
+[[files]]
+file = "emojiful/cache/angry-1"
+hash = "4a5c7464ab52e1fa4137bdf98876ae6f79035184bfa5ca8b8df4b78752ded6e1"
+
+[[files]]
+file = "emojiful/cache/anguished-1"
+hash = "c9a3c8fa5a6dee8cff37073a2b3c585d618335280ceaaa3105e662a8d964cdb4"
+
+[[files]]
+file = "emojiful/cache/astonished-1"
+hash = "e3e14a92b91d55834540310ed696d5bcb9bd2c8a1e11fc24deadcb5c81ac9f89"
+
+[[files]]
+file = "emojiful/cache/black_heart-1"
+hash = "70fc62b7e11d64f2b1c0a0f55989a999d8e8b8add686df9889676e70f0d34346"
+
+[[files]]
+file = "emojiful/cache/blob-1"
+hash = "80bbac0ec6caf05b06eb404294c49d87414aa21d79c05b38217855b1d489dcef"
+
+[[files]]
+file = "emojiful/cache/blobban-1"
+hash = "d8eee78447039d2e5614d37ab64778aed992d3b4773a54b3227c41263021b458"
+
+[[files]]
+file = "emojiful/cache/blobbanjo-1"
+hash = "f3d5bf54129cda67a01b0fd651aa9c65d8557a2c0b956cdb8ba3fb84c4c26834"
+
+[[files]]
+file = "emojiful/cache/blobblank-1"
+hash = "cc03aef2e3c88dbb1edbbad2ad37044d0a5437f502978810cf120f541bde0921"
+
+[[files]]
+file = "emojiful/cache/blobblush-1"
+hash = "e171135bd56ef6b01755b2c13746ed2af66ddfbbccfe93fe581fc9046ffc3af9"
+
+[[files]]
+file = "emojiful/cache/blobcat-1"
+hash = "51ec913a822d9816ac5ee4b38bd1acb58087ab24fcd2efdd250c94dc3d12867e"
+
+[[files]]
+file = "emojiful/cache/blobcatangel-1"
+hash = "8d921e9917f3d88130ee055c626c65cb25458e232f2ae55cf1d6027dff42954a"
+
+[[files]]
+file = "emojiful/cache/blobcatangry-1"
+hash = "cd9574a78abe1e8dc3a72c39502b9429886f1841f95536937fc4d52b8d17b6ec"
+
+[[files]]
+file = "emojiful/cache/blobcataww-1"
+hash = "b7326ccb1e7ba08e0bf430263dc5d5469a5bf3c0b036d8754fd3a00a98dde282"
+
+[[files]]
+file = "emojiful/cache/blobcatb1nzy-1"
+hash = "3c82d63c1b881e710d04d48bc79ee0b44006bd87bf76d58534ee254aba739c57"
+
+[[files]]
+file = "emojiful/cache/blobcatban-1"
+hash = "45264ae4603d64a7b9ee2f85c9adf5ad76595e680e7b5fd6daa3b5ef183e1fac"
+
+[[files]]
+file = "emojiful/cache/blobcatblep-1"
+hash = "7fc2d1b6e932a5a16a235355d5a833cbb0ccab43621d627a5515264b303e298d"
+
+[[files]]
+file = "emojiful/cache/blobcatbolb-1"
+hash = "292eef8fb36298fd4e765c5b738f4611687021ca094bc543591353765c645bcc"
+
+[[files]]
+file = "emojiful/cache/blobcatcaged-1"
+hash = "3c07c082aadecbba2d7608902975e2a9ff20bd6bbaebb726bb2984d13bd2ed60"
+
+[[files]]
+file = "emojiful/cache/blobcatcoffee-1"
+hash = "ff45b34308d159382f268988fdfc9bac76a49c6d7e7bed4e82c892c09cceb17a"
+
+[[files]]
+file = "emojiful/cache/blobcatdead-1"
+hash = "9bb531633f1c628df880b128e5d1b6bce503970e697db022051f48258c617e7b"
+
+[[files]]
+file = "emojiful/cache/blobcatdevil-1"
+hash = "0b9acd7795117d6a9e4b01bf4cc97fc8b16af78dc21d5b62b10e972cb0768c92"
+
+[[files]]
+file = "emojiful/cache/blobcatdizzy-1"
+hash = "6426d1d78ef271302cef64a053f50081443465d3bb3146900ec4c26115d419b0"
+
+[[files]]
+file = "emojiful/cache/blobcatevil-1"
+hash = "5e103d91e25bc636cfda1819d103a8d4d9d2a78abad761854c8f475eee00edbc"
+
+[[files]]
+file = "emojiful/cache/blobcatfrowning-1"
+hash = "9ec84bb8df2d729a7be85caf9c1871e76ad84028b4a6feed0080f54ef7f1c12c"
+
+[[files]]
+file = "emojiful/cache/blobcatfunny-1"
+hash = "910c9504f55c85f0113f428156a79f4ff2a9a3b4b1a718a8ff86439ecf5b947c"
+
+[[files]]
+file = "emojiful/cache/blobcatglare-1"
+hash = "12fd1038755554e9e5a4ff082ef53af6b6d9d3f888ebd31db81c271af318a1d7"
+
+[[files]]
+file = "emojiful/cache/blobcatgoogly-1"
+hash = "dba7c1f1d9c1932e48a69b6112440faf8d88e4de8361d471d5d540aa2c5c2f8e"
+
+[[files]]
+file = "emojiful/cache/blobcatgun-1"
+hash = "833fb676ebd5d009b9603770337fa162b16812101535d1ae791d9155c6de0a46"
+
+[[files]]
+file = "emojiful/cache/blobcathappy-1"
+hash = "a30bd6ef4fac85b4e61b95bcae5e67def2c682ca13d0601b28baf9a4dee48c77"
+
+[[files]]
+file = "emojiful/cache/blobcathearteyes-1"
+hash = "1eb8793d394822b86cf3959aafcd2b5a1c1da253abaff6bdb51b64d57150a0af"
+
+[[files]]
+file = "emojiful/cache/blobcathug-1"
+hash = "7f5619d8c649a188f629c2c4b809b2b09dc7025b8409aca6223997c79859254b"
+
+[[files]]
+file = "emojiful/cache/blobcatjoy-1"
+hash = "bfa02af2a4d7e269cce5769b90ccba2733bc2ab8000cd257f7a552757ab4a683"
+
+[[files]]
+file = "emojiful/cache/blobcatmelt-1"
+hash = "5e7eac5ea9ec7bfc8538c68ee883a87a881ac6d62f4b13e3ffa88ca20eaf53cf"
+
+[[files]]
+file = "emojiful/cache/blobcatmlem-1"
+hash = "b7a9da4b201f4566628caabdc23752d255d17283af5a9d7d14a56d192a080c86"
+
+[[files]]
+file = "emojiful/cache/blobcatmorning-1"
+hash = "f7cac1232ac9f23a71a168d978f2963eb6af9ed2a52ff8835a046a9bbcf98ac1"
+
+[[files]]
+file = "emojiful/cache/blobcatnauseated-1"
+hash = "f4ffdea198a56905ea8af1a9e6ab0a34b074eec4895c41aad3da11b25c45f265"
+
+[[files]]
+file = "emojiful/cache/blobcatnerd-1"
+hash = "deef265a1fc0a239bc1719e0616cf1f36f4cacdc1ca2f14c303e40e859b3111b"
+
+[[files]]
+file = "emojiful/cache/blobcatneutral-1"
+hash = "94debceacfc31207e00b73fdbbd89251b36b8713a24055bf832f15940daadd8a"
+
+[[files]]
+file = "emojiful/cache/blobcatnight-1"
+hash = "12834d64a2805268555555a5aac308643bbebedf26d38d0c3c004fd419d48dd3"
+
+[[files]]
+file = "emojiful/cache/blobcatninja-1"
+hash = "5fe17793334cd1df402cb6eadc49f575f139052b794af54587dde00eb7bbfe1f"
+
+[[files]]
+file = "emojiful/cache/blobcatnomcookie-1"
+hash = "ad1afaaffeef94921458a093d867aad760370edd9307f16f46cf52846b8d4058"
+
+[[files]]
+file = "emojiful/cache/blobcatnomfish-1"
+hash = "f8a9f3f95033376420258599351d9fb67577a19c68333561a37973bae2b7570e"
+
+[[files]]
+file = "emojiful/cache/blobcatnomouth-1"
+hash = "d635afc2fb5684a54c0a3e7accceed4e6f491c54d30ffb89e884ea1d90e731b8"
+
+[[files]]
+file = "emojiful/cache/blobcatnotlike-1"
+hash = "082a760a95db59ff5d47e646664263efcda0b041e6a36478974f78e9ae7caea4"
+
+[[files]]
+file = "emojiful/cache/blobcatpats-1"
+hash = "54ddce61293fd8761d981006628766de0d7efaa4fd5c5851d76673b6512ead1f"
+
+[[files]]
+file = "emojiful/cache/blobcatpinged-1"
+hash = "3f9b72b0b79818c512b321cca3ac5b4937b3d4f15e7c3db86095011b4510f044"
+
+[[files]]
+file = "emojiful/cache/blobcatpopsicle-1"
+hash = "71b8c22ecb3797e1877c41bcbc6dc23132e9b07134e7043ffaaaa6212eac9733"
+
+[[files]]
+file = "emojiful/cache/blobcatreach-1"
+hash = "59a76e86dc868d5c31ff9ca18a913403ef812c08c5e471e1558c49c6390b5def"
+
+[[files]]
+file = "emojiful/cache/blobcatreeeeeee-1"
+hash = "da6eee892b56ba6fc2cec28dce5964e413c9fe1a90459f13db283359532ae635"
+
+[[files]]
+file = "emojiful/cache/blobcatsad-1"
+hash = "c0e1a684179a8ae37c35297958816b1604973a4ef04fdc022f6b4429fefb7082"
+
+[[files]]
+file = "emojiful/cache/blobcatscream-1"
+hash = "52661179262a9f19643f949108276441e48714f094711095c2db30f8189a561d"
+
+[[files]]
+file = "emojiful/cache/blobcatsick-1"
+hash = "d8acbbbee053e4db07be05c692228dce59c399b4db069da329aa3ea4d7b8eddb"
+
+[[files]]
+file = "emojiful/cache/blobcatthinkOwO-1"
+hash = "5caaa8146131af929166dadacb9458e2367d7dfa3dcc140dedd5fcf9bb120831"
+
+[[files]]
+file = "emojiful/cache/blobcatthinkingeyes-1"
+hash = "61133e7e8a8ca3472da0fb840f816208f1aab30bf72da6c4a21eb07d5dc76b1b"
+
+[[files]]
+file = "emojiful/cache/blobcatthinkingsmirk-1"
+hash = "3c4afc38a2371bcb2de670386c27374bd4b70cf97aad64044366ffd6e3fcce54"
+
+[[files]]
+file = "emojiful/cache/blobcatuwu-1"
+hash = "2ad30d88193e4e3a2fb7c82bc8599c401ee05d77110ccad9c021de8693b0183d"
+
+[[files]]
+file = "emojiful/cache/blobcatwhatsthis-1"
+hash = "14c6211b12048d27825dc9c8b4ac264b018116e95a077b77ad494d052c6fb02f"
+
+[[files]]
+file = "emojiful/cache/blobcatwhistle-1"
+hash = "3e85e726a3aaa4d8bac2c770050c28c468968e1a6c6c9016d39ac1a0e667953d"
+
+[[files]]
+file = "emojiful/cache/blobcatwink-1"
+hash = "ad808bde98c0a3e908bf5cac50b776ae51ac92119d9ec922f40be24afa2fafc7"
+
+[[files]]
+file = "emojiful/cache/blobcatwinktongue-1"
+hash = "048a29dfe91fc4f764600c0f17720973e3091ae36ad18b0a466a03838f9e1220"
+
+[[files]]
+file = "emojiful/cache/blobcatwolfiri-1"
+hash = "4142a71e692bea5833916e44bd780f32986777697e145fc8c9c82ee0a356fbbd"
+
+[[files]]
+file = "emojiful/cache/blobcoolcat-1"
+hash = "7cc61a76526951504ac74ba7826c760733f65d8a08be554fe5659922316ff88a"
+
+[[files]]
+file = "emojiful/cache/blobderp-1"
+hash = "1e6ebfa79c936b3a889cd68d27a11aa9a0140d1eebda08a0e47dcefceb40d194"
+
+[[files]]
+file = "emojiful/cache/blobderpy-1"
+hash = "8d5ef44e812f05bf7885b11e995b673683638c012c29b1401cff7b7826625bee"
+
+[[files]]
+file = "emojiful/cache/blobdoubt-1"
+hash = "023d84a173086bac3afa2ec972720bee8d6982a315cbebffe1f0d3bc053589f9"
+
+[[files]]
+file = "emojiful/cache/bloblob-1"
+hash = "4b51489583744a4c016612b6aed8711bca4c84610afbb0e30262eb545d888396"
+
+[[files]]
+file = "emojiful/cache/blobmas-1"
+hash = "879ab3e29a9712ee42ba49a50908b43eb18a6f2f3593878b46a4668e2c317264"
+
+[[files]]
+file = "emojiful/cache/blobno-1"
+hash = "d75c316c8bba94c89081dc8cadfb478fc05369f79e70c6c0bacfea489eb01a7a"
+
+[[files]]
+file = "emojiful/cache/blobpeek-1"
+hash = "817a2e31b8b562a5614472277b7c0eeb4fb453a6eea847c7107157d7eef84288"
+
+[[files]]
+file = "emojiful/cache/blobpobcorn-1"
+hash = "d80f22b28067e7b0821bcf618e2c6d33a817a85d4e0876de1390b3538002d8a1"
+
+[[files]]
+file = "emojiful/cache/blobreach-1"
+hash = "33b1511ea3f05f44da30b12809243075542c9f37ef273bda4ca1cf0cc3bd73f2"
+
+[[files]]
+file = "emojiful/cache/blobstab-1"
+hash = "8b5e29548223082e5026499dab65d4980c64b532372bcf4e8e358221221ba88f"
+
+[[files]]
+file = "emojiful/cache/blobstabby-1"
+hash = "9e0dd90040dfb4b45e0a5d02717fad5139755879e471b42b47902892d9107b85"
+
+[[files]]
+file = "emojiful/cache/blobthinking-1"
+hash = "a5039bc3d4a8bd094f96549817ff0bdbf873e5dea69a55bee3bc3a4c3630bca2"
+
+[[files]]
+file = "emojiful/cache/blobtilt-1"
+hash = "41864310bd789c7397a7b99e261c9761103ed7a5c528e0b78a6eebb1a1d5a412"
+
+[[files]]
+file = "emojiful/cache/blobyes-1"
+hash = "775218baeb740065bf8ea0002b8b0a007e981735eddd102663064b9ee4ae1da9"
+
+[[files]]
+file = "emojiful/cache/blue_heart-1"
+hash = "308d773d1b9a15e476c84f44a7bcffbb6df4b0f8414763c54c557d55a4c72375"
+
+[[files]]
+file = "emojiful/cache/blush-1"
+hash = "741e7d09deac5fccba7551ecb40b05d7a3f8a2fca16ba3070509a6ab9df7de55"
+
+[[files]]
+file = "emojiful/cache/boom-1"
+hash = "b77add0551be73f0488671a6055a344a3d24cf576ae541dbb5f418822d1491fe"
+
+[[files]]
+file = "emojiful/cache/broken_heart-1"
+hash = "4b620062b1a4fcbda02b5c90238dbb836de45b19575c671786c4d88e5d631dc0"
+
+[[files]]
+file = "emojiful/cache/catjam-1"
+hash = "7ffa09702d53372753ac2be62560ffb2629200f97e619c758b0b386be8d18460"
+
+[[files]]
+file = "emojiful/cache/cold_face-1"
+hash = "c0110e12719ff35894e4aaa1ddd6eb39cb51a2e5669b8396b75ee7bc4cf189da"
+
+[[files]]
+file = "emojiful/cache/cold_sweat-1"
+hash = "62a8f0a555152fcd5662dc798fff38b475a5839b0ace439c252782826e4a682d"
+
+[[files]]
+file = "emojiful/cache/cry-1"
+hash = "5b204b53a70663b9d5748f1418e35d60f3128758f91421b707ae988a1d04af60"
+
+[[files]]
+file = "emojiful/cache/crying_cat_face-1"
+hash = "b46520660f711234cea38f974f6d7651dbca8e57362d17e0ecd25dae5afc3b60"
+
+[[files]]
+file = "emojiful/cache/cupid-1"
+hash = "abffc7740aaf5b0495456cf59361f8d5082b5b2942f69630fef5739c370adb2a"
+
+[[files]]
+file = "emojiful/cache/dash-1"
+hash = "361b25c1018068877b3e4d5b41a706f20e4e02e2ac1db668f0ea978b18ab2b3e"
+
+[[files]]
+file = "emojiful/cache/disappointed_relieved-1"
+hash = "7fc4826d48627dc46f53044a7cb43d12d6087f3297f43bb6530187e447617ab6"
+
+[[files]]
+file = "emojiful/cache/disguised_face-1"
+hash = "e721098e45a95f614895c45bd4a251915c7de5169680bde8835b9e58e131a24b"
+
+[[files]]
+file = "emojiful/cache/dizzy-1"
+hash = "b6d5ecdf56c0f7f253e5e1a86939ff392c08fb17ad4f61dc6f5a5570bab3d5f7"
+
+[[files]]
+file = "emojiful/cache/dizzy_face-1"
+hash = "e8b6fde0e97ac58fc39d53ac6a9a69717ee73ce9151ad28d7eed8291603dc021"
+
+[[files]]
+file = "emojiful/cache/dotted_line_face-1"
+hash = "1f5f53dbf97352c331a09138cbc2acb024b3f907a76ea618b6f7980555ac57cd"
+
+[[files]]
+file = "emojiful/cache/exploding_head-1"
+hash = "2a97fd874daefe93f43d1f192425c72368675e374b55f91283c0f2503872c992"
+
+[[files]]
+file = "emojiful/cache/expressionless-1"
+hash = "6698a5264dce61955286fd1158a80c6abc0916bf88f83832c8887f20e0587a77"
+
+[[files]]
+file = "emojiful/cache/eye-in-speech-bubble-1"
+hash = "0431ae219a43ad0dafddc1d48794711bcbbef3fe28bcd4a188ee6e8e625fa4e3"
+
+[[files]]
+file = "emojiful/cache/face_exhaling-1"
+hash = "425913bc2ade7e2e31c86e234bb7e3cd0523ecbed69ecd437dce40ec728680dd"
+
+[[files]]
+file = "emojiful/cache/face_holding_back_tears-1"
+hash = "497865b07b3d6d2ec0ce82947c494d59443198c6aba41e0cb5000467eb8c5e88"
+
+[[files]]
+file = "emojiful/cache/face_in_clouds-1"
+hash = "e2217523762dd069274bffe0cb117a6c6fc4d1ca10101cae85bf348b5930cd9b"
+
+[[files]]
+file = "emojiful/cache/face_vomiting-1"
+hash = "aa67db4847415715a3200a7c0c68be6a4ff1221ca02a8c678d2d4a1159d29dce"
+
+[[files]]
+file = "emojiful/cache/face_with_bags_under_eyes-1"
+hash = "a3bb4242aa1ff10024a0ebeb83150ca3a50957dd506dbda807a4051e65b4fef1"
+
+[[files]]
+file = "emojiful/cache/face_with_diagonal_mouth-1"
+hash = "07591c2c221a516d370a771d447bfeb6de74f0f3c5e8cd572d174f592cf41ddc"
+
+[[files]]
+file = "emojiful/cache/face_with_hand_over_mouth-1"
+hash = "1567608bf5abd1d2c77b3a36710045cbe67d7ff6ca7b65746ad9292891c2e825"
+
+[[files]]
+file = "emojiful/cache/face_with_head_bandage-1"
+hash = "7dc59a460271e92cd57d190258becb12dde76b4b5f91542a93a5ccdf06596ce8"
+
+[[files]]
+file = "emojiful/cache/face_with_monocle-1"
+hash = "8cd1a760d98d3b05dee65dbe34744350455325aea976f0fc82d3ef2f8e4bf15d"
+
+[[files]]
+file = "emojiful/cache/face_with_open_eyes_and_hand_over_mouth-1"
+hash = "8e74adfcc122cc3901fd1489d49e2fda807b20624336ac6d29d27609400dda36"
+
+[[files]]
+file = "emojiful/cache/face_with_peeking_eye-1"
+hash = "8d83262f0e6115d1dac402493c25555751ab4f2c04d9a8e5db614fb7ec6784a3"
+
+[[files]]
+file = "emojiful/cache/face_with_raised_eyebrow-1"
+hash = "52b173618ae858b13633eb0b4e0146a47ed827d86fc79e91c611b8c1a8efb97c"
+
+[[files]]
+file = "emojiful/cache/face_with_rolling_eyes-1"
+hash = "fba52bdf2ece51f5d3e8c56c70a4998da2bac69aa2ab5fe69e82b25a840ea311"
+
+[[files]]
+file = "emojiful/cache/face_with_spiral_eyes-1"
+hash = "8630e26447d9f45784a0bfd2b1f06fcd0cfc77e17f6ed202a3ce5ec70ecab6d2"
+
+[[files]]
+file = "emojiful/cache/face_with_symbols_on_mouth-1"
+hash = "11066928f061a2b5789d887f563bce80bba0d206fe0839c5d63e071bad6fd862"
+
+[[files]]
+file = "emojiful/cache/fearful-1"
+hash = "59892e66e8878930ab79ce885a4c55a949f7e13c8de9bd4c6ac74926a81cbb54"
+
+[[files]]
+file = "emojiful/cache/feelsbadman-1"
+hash = "79f4a2087860fb9d803c57e729f6701242fb1f654907fa0e877e0e30bc53ea2f"
+
+[[files]]
+file = "emojiful/cache/frowning-1"
+hash = "acf470b04b2caad7d9444fa8048b2cfdc35ed172ef4fee626916864711e21738"
+
+[[files]]
+file = "emojiful/cache/gift_heart-1"
+hash = "2e1f2331d3c63ac5c542a1faf2ed1f4c729de84cab20ee43ea7488422beeec93"
+
+[[files]]
+file = "emojiful/cache/grapes-1"
+hash = "b20cb1685a5ee5bd719fbcaad0fca89ca493036f68839877882861bb73acf9fb"
+
+[[files]]
+file = "emojiful/cache/green_heart-1"
+hash = "02b1bc6ba9ad4adca0af1533e3b6930d68ac8961cd02e3eb1c0ea9c978e84941"
+
+[[files]]
+file = "emojiful/cache/grey_heart-1"
+hash = "95557cdc5af65326d06143a3d899f15850bf824768ec59e5afda4c30e991a9a8"
+
+[[files]]
+file = "emojiful/cache/grimacing-1"
+hash = "3116ee7e4fe27b932af368445a742192b3c6dfb5bc04c9c3c6d6cfce5a3799bc"
+
+[[files]]
+file = "emojiful/cache/grin-1"
+hash = "36503c6e0b35090615e7937d06c692a05f1bd5e5783ba5e0315a038cb128bbec"
+
+[[files]]
+file = "emojiful/cache/grinning-1"
+hash = "50e4ca63df31b9a0427ee28602501a992c594120f6ed8914c32e51b0c32ce1ce"
+
+[[files]]
+file = "emojiful/cache/hankey-1"
+hash = "a3dd3e9c2de7cb6726c6a7b22ef49fb8bb071c2487d61f27eef8dce9ed824f11"
+
+[[files]]
+file = "emojiful/cache/head_shaking_horizontally-1"
+hash = "381fc94a0ec4f560d94b3267218b6491e687eeada9aa79556a290bcfb14f497b"
+
+[[files]]
+file = "emojiful/cache/head_shaking_vertically-1"
+hash = "b4a22b43a19980232db534fb3d722c9d1f103f6b1e4c7355af221a9472115f35"
+
+[[files]]
+file = "emojiful/cache/hear_no_evil-1"
+hash = "35dfae684deda2bf7004223712825553ab7bff114eba8cd2c018f3d2da4e72b4"
+
+[[files]]
+file = "emojiful/cache/heart-1"
+hash = "6388103fe0aea41e3e5ee35a30f9912449e28d355e180ff94673acb686af1a68"
+
+[[files]]
+file = "emojiful/cache/heart_decoration-1"
+hash = "e3c5134e67ae42f89f79eed2e90dd82d0efd69b6755f35f3a1f95d1cee3e2ae1"
+
+[[files]]
+file = "emojiful/cache/heart_eyes-1"
+hash = "e8f25a5eeab990c909be1b0be1437d61e7e0bacbddeb3baeb8f3119585919e3e"
+
+[[files]]
+file = "emojiful/cache/heart_eyes_cat-1"
+hash = "8997b8e5993a8a93a0b967e9e830e3e08843016990ae2f17b1f62654c39d33d9"
+
+[[files]]
+file = "emojiful/cache/heart_on_fire-1"
+hash = "1d103391db0bdc00a78acd689c16e0c354d73ee1011e7fb343af2e8f5b05de57"
+
+[[files]]
+file = "emojiful/cache/heartbeat-1"
+hash = "9f39ad10b34fbf19c02c4dcd4928316446600bb51096eb6fa26b71dbdbda3247"
+
+[[files]]
+file = "emojiful/cache/heartpulse-1"
+hash = "dc83f1b0acacff54e8e0d9371deff150ffb33cb9c1d18be42cf0cfb23a6e45f3"
+
+[[files]]
+file = "emojiful/cache/heavy_heart_exclamation_mark_ornament-1"
+hash = "710543f7bf54ce3275d0f35a748fa4c9799fb3dd7e78019f149038f8afd0d472"
+
+[[files]]
+file = "emojiful/cache/hole-1"
+hash = "8490e6c75f6b3379f5ea426343242181f8e5b95fa845ebf0adb753e5305e6282"
+
+[[files]]
+file = "emojiful/cache/hot_face-1"
+hash = "28041ae7e19604ed78b6f126a87e62689cbd1b376fb5460d54473a62bc880618"
+
+[[files]]
+file = "emojiful/cache/hugging_face-1"
+hash = "04ec048228da1fca8ca417773fb80f3692adda0c41c465f1755f33ed27c5385e"
+
+[[files]]
+file = "emojiful/cache/hushed-1"
+hash = "4e84806b42bb29ec0d03a67c5e735f81f1867887901af9561d9938420cb51a8d"
+
+[[files]]
+file = "emojiful/cache/imp-1"
+hash = "f21936492b6f0ff047696e7d1d41d4615c2e6d9d10ada467ff47b02695376181"
+
+[[files]]
+file = "emojiful/cache/innocent-1"
+hash = "64668b0621274de854f18dbacdeffc50b277941cb6b55f152324099623281589"
+
+[[files]]
+file = "emojiful/cache/japanese_goblin-1"
+hash = "e75c2134aab5821a3feb7c0f9010d6091549c3821e54aa8ccd7bdfa11bb6e8dd"
+
+[[files]]
+file = "emojiful/cache/japanese_ogre-1"
+hash = "4d612388b1a38756f7920846bc68915f3f5db113f091977781938373ceea8296"
+
+[[files]]
+file = "emojiful/cache/joy-1"
+hash = "c8246aad6123b803d61646eb191228ad21e854aedf143577d1a09e612605fb22"
+
+[[files]]
+file = "emojiful/cache/joy_cat-1"
+hash = "03ee756a3cc5910e3b91ef9b4bbef54ce11958e0bbaae39cc703e9388e25eca3"
+
+[[files]]
+file = "emojiful/cache/kappa-1"
+hash = "d1c91e5de3a90a38dc414dccbc30509c6d150548481698656c06abd3c71c6638"
+
+[[files]]
+file = "emojiful/cache/kiss-1"
+hash = "023ba4e37ab9435f030c6d52390cf94ba56cd6918d08bc71ca13e194e2c0c18c"
+
+[[files]]
+file = "emojiful/cache/kissing_heart-1"
+hash = "7090be5d140e67a800d35e11a860cf9ffac49ca77a17aeeb88e6e65d024f9183"
+
+[[files]]
+file = "emojiful/cache/kissing_smiling_eyes-1"
+hash = "3c0ddac15085e52c3acacc3f6fdb78e2ac052c985e413ed24b0e4312af8384b0"
+
+[[files]]
+file = "emojiful/cache/laughing-1"
+hash = "0f378a250fd0d1da727cf1a8c6208a571964f0b345e9bdf9ba3eb3e717ab5b55"
+
+[[files]]
+file = "emojiful/cache/light_blue_heart-1"
+hash = "480c476f62c9d098a941462ce9a12153f732e620229798518545075ff7f14955"
+
+[[files]]
+file = "emojiful/cache/love_letter-1"
+hash = "24e14122afda7450cb1d11227ec78ff8405a6cedf17366ab9cd976b401b0b5c6"
+
+[[files]]
+file = "emojiful/cache/lying_face-1"
+hash = "531d571b91f12886498c6099e0e44497e1d1401429d13da19806e392ef9c8a1c"
+
+[[files]]
+file = "emojiful/cache/mask-1"
+hash = "f89adbfbcf735200194c62ce130dfff1d6fec646567603371d38d803fa03c1ae"
+
+[[files]]
+file = "emojiful/cache/melting_face-1"
+hash = "24c70aaacc405e65aa0bc4864eae42d11b1ad0dc05c6a5129ebfe9ab8feef1bf"
+
+[[files]]
+file = "emojiful/cache/mending_heart-1"
+hash = "f911d6b6f05ebd3082ddbd59c5b6f7a43d7349b648aaaec5da5c877a226ded94"
+
+[[files]]
+file = "emojiful/cache/money_mouth_face-1"
+hash = "7fef3ace30996990287d7384339a638e1109ec475a2727ef3d2ed625eda22acc"
+
+[[files]]
+file = "emojiful/cache/monka_gun-1"
+hash = "d115404d19ee1f0edf8cc1855115c6992abfcbd1fab1b5bfdec6c395c2ad9437"
+
+[[files]]
+file = "emojiful/cache/monkas-1"
+hash = "8e2655b1e8319fee81fab70afd54403ea9e1759f1ebc8209f9994005d17c0be3"
+
+[[files]]
+file = "emojiful/cache/monkey-1"
+hash = "60bd13da27cbc4651fd34e0b051cd8aa72e7a3b3d676f5f922fb4994d9a199ac"
+
+[[files]]
+file = "emojiful/cache/monkey_face-1"
+hash = "c8e3a03076fb9ba80b2c096233b22ecb2875bc5347361118300a03516a4fedb9"
+
+[[files]]
+file = "emojiful/cache/mushyhappy-1"
+hash = "aa3bc81f4aa49c92131a6b8cbbf76a18cb5efbb83aa93642c72211ca0b944e98"
+
+[[files]]
+file = "emojiful/cache/mushymad-1"
+hash = "a253306dafef4269e28e24a9bbb92d1f3639ae950987d2e21fe37f04908ae4c5"
+
+[[files]]
+file = "emojiful/cache/mushythirsty-1"
+hash = "cf21f3862279d4755eac7f37def0a6945657e7bbf5c2f508db8d8b606a13e541"
+
+[[files]]
+file = "emojiful/cache/nauseated_face-1"
+hash = "5e6c1dd9ec41fecca6d780ced682c6d505fd260a6ec03e1f8c50e63270d57fdb"
+
+[[files]]
+file = "emojiful/cache/neutral_face-1"
+hash = "8896a0f1ab34eb6daa5820644738b443b8672481a00b8c667a121229ac50d216"
+
+[[files]]
+file = "emojiful/cache/no_mouth-1"
+hash = "1bd87f04b14e84932e0906a902f74e7f9a86c8ef068bf5b7efabff5d58381c28"
+
+[[files]]
+file = "emojiful/cache/open_mouth-1"
+hash = "727b2678c70f7eae9d3dd4466ec78dea6857ff3e201cd24b2c9d0585184cf4dd"
+
+[[files]]
+file = "emojiful/cache/orange_heart-1"
+hash = "2a095fbaec71991f7c010305c7c11869f300373d3c83c97070a9d40bf4a7902d"
+
+[[files]]
+file = "emojiful/cache/pensive-1"
+hash = "3f849d8c34b440f9b56018795345186dc3a221cce77c21b51907b88b3f1b3b61"
+
+[[files]]
+file = "emojiful/cache/peped-1"
+hash = "ba7ca6abc41cfde26653ff05452bef22b11ece5f21bc9ab06510cbdcee71ca67"
+
+[[files]]
+file = "emojiful/cache/persevere-1"
+hash = "cbb9e9abb03bd0ddef89c311e99790f1f3eb4f217c8007c8c7dd6082266d96bb"
+
+[[files]]
+file = "emojiful/cache/picardfacepalm-1"
+hash = "87e081bbe6bf39a072ba6020ea7f429f1df5e02a64dc4ef3ccf72e1f9f3096ab"
+
+[[files]]
+file = "emojiful/cache/pink_heart-1"
+hash = "b6987ffe4c282e7b7e1bef8953ae842f48b7a40f1486ae21e7feee63b5be592b"
+
+[[files]]
+file = "emojiful/cache/pouting_cat-1"
+hash = "7fa2f7d5011d5f0c84f34ee83e15bf83820462551ce261df4bc84cae8b5571d1"
+
+[[files]]
+file = "emojiful/cache/purple_heart-1"
+hash = "86a5703608e2fe7d49db817656142430e2a1c0350653550c222e831a77218ff2"
+
+[[files]]
+file = "emojiful/cache/rage-1"
+hash = "6431d700d9a757acaf69b000d852e1e5185193622f156f93e0439aec5e515440"
+
+[[files]]
+file = "emojiful/cache/relieved-1"
+hash = "9555bc50880f551b948ef3641e23679610ccd4f5812cd925254989c62681fa0d"
+
+[[files]]
+file = "emojiful/cache/revolving_hearts-1"
+hash = "e8310c1111b2b8040699a6e1ba6334d24bde65299829a59f854b5234b9439813"
+
+[[files]]
+file = "emojiful/cache/right_anger_bubble-1"
+hash = "5e646ffafeebe518a627957c04a8629f3df0d718e921ce84f2fc2c38d0ba875b"
+
+[[files]]
+file = "emojiful/cache/robot_face-1"
+hash = "68c0bbd0f9badb9affe99f16d12d120a4f9701617a3873a1cf9f7d1b59c55da3"
+
+[[files]]
+file = "emojiful/cache/rolling_on_the_floor_laughing-1"
+hash = "2e842af2e5fe51cc1d908f167520a1a5b144f875f92b247eb71f9928e9ebdbd1"
+
+[[files]]
+file = "emojiful/cache/saluting_face-1"
+hash = "13876da043d2138167d36270be394a1967f51f99e9d72b9e0261853d96d8f250"
+
+[[files]]
+file = "emojiful/cache/scream-1"
+hash = "480d7c854bf832382556599d352305736cea71743efaecdb1da963594a59ab79"
+
+[[files]]
+file = "emojiful/cache/scream_cat-1"
+hash = "81f3cab5c6fc3b5904cfe34dd59f5c1bf0cf7f389d3cc3be0149ead66eab4337"
+
+[[files]]
+file = "emojiful/cache/see_no_evil-1"
+hash = "b4208f800130f82bd55cbe41b909819beffd432e1604e239024cc013d5a3b21b"
+
+[[files]]
+file = "emojiful/cache/shaking_face-1"
+hash = "975890b5dc0d096419deb14134e365a5ddb8b82f9739feb69c65a2b5220abb57"
+
+[[files]]
+file = "emojiful/cache/shushing_face-1"
+hash = "538b7f5ac48fabb53498d8c0fc6353191ced04d45d8fd3413dc8a183f56e36cf"
+
+[[files]]
+file = "emojiful/cache/skull_and_crossbones-1"
+hash = "28862a0b66f4cac796a6df5d2a31bfa1f8a932faa172350deab38123945212c8"
+
+[[files]]
+file = "emojiful/cache/sleeping-1"
+hash = "9fb5088f674db96c6dc0150b3d19e4eb05dcd09c257321a6552f07468f8f76a3"
+
+[[files]]
+file = "emojiful/cache/sleepy-1"
+hash = "d7d4a83118e3a8d953a884831fe047cd7d2075f5701ae000414ffdcd9f9e597f"
+
+[[files]]
+file = "emojiful/cache/slightly_frowning_face-1"
+hash = "b31f3751b1ab6bccae39e66f0bc8b183dfa8e36e5c6db1361dc23e44b40277fe"
+
+[[files]]
+file = "emojiful/cache/smile-1"
+hash = "ff0aa2c4eae9b693930fd5bc55f7338d470cf71b79eaa4b09d9af7541aafc6d7"
+
+[[files]]
+file = "emojiful/cache/smile_cat-1"
+hash = "caf3bcd181e9f6559b5ab663b776fa512f773b50a296ee30a9d737f0650b5dc3"
+
+[[files]]
+file = "emojiful/cache/smiley-1"
+hash = "3b23b5cd105cdf562bb67171659d9c96e2bc65ac9ea481b84767262448f9b47b"
+
+[[files]]
+file = "emojiful/cache/smiley_cat-1"
+hash = "1d9b910318cefe31aa033ce00bdef6b8b5c127385d28f33e365bd9b105ded911"
+
+[[files]]
+file = "emojiful/cache/smiling_face_with_3_hearts-1"
+hash = "a12c7adb9f5ac740e585e4a207bf5ae8fc7fca5d09f600eb678d0d154d9925a3"
+
+[[files]]
+file = "emojiful/cache/smiling_face_with_tear-1"
+hash = "a2e05fa8c20ec59cb60fdec50157377dcf727fa19b7b25d157c345ae8e1d3e33"
+
+[[files]]
+file = "emojiful/cache/smiling_imp-1"
+hash = "7758b48e80db453f0906f312c5d94e08570fef52c0aa868d6dcd18f0346da106"
+
+[[files]]
+file = "emojiful/cache/smirk_cat-1"
+hash = "24f248856f4b3248f23bec6bb0dca439e4cd683190d90320ed8da3db743873a9"
+
+[[files]]
+file = "emojiful/cache/sneezing_face-1"
+hash = "906a9541e471b256d49142022b8bf325a934cfc79fc5fbfebbe1553903a6b259"
+
+[[files]]
+file = "emojiful/cache/sob-1"
+hash = "251555de1edee0e6c5e64f205028e4343fcb9f6857bfa5b9031aa9c63f51cb2d"
+
+[[files]]
+file = "emojiful/cache/space_invader-1"
+hash = "e373051d107a299424589ad6bf3d402df9f16e3c0ddbb957d22b32113e8c07f0"
+
+[[files]]
+file = "emojiful/cache/sparkling_heart-1"
+hash = "d5a28c068de952914339e80d2976875b1a5ae9687b312affcd99c152f11bcb88"
+
+[[files]]
+file = "emojiful/cache/speak_no_evil-1"
+hash = "7736d86ecabf603cb4d2da5a930eb9c484113f4323e0cbdb626240ed951184fb"
+
+[[files]]
+file = "emojiful/cache/speech_balloon-1"
+hash = "61e133092645c0088443d923e0ccc7ed9348ad80141720363168215c573a9dc4"
+
+[[files]]
+file = "emojiful/cache/stuck_out_tongue-1"
+hash = "7a1594b291aae9f0f05142f83c34f3cfea1ab881560d19b97da0da6a42bafef7"
+
+[[files]]
+file = "emojiful/cache/stuck_out_tongue_closed_eyes-1"
+hash = "74e94a146dc8b95f8fe59fdf024e4a17cd0109b1a045dcc12c79fae1deb480ef"
+
+[[files]]
+file = "emojiful/cache/sunglasses-1"
+hash = "4507456343bef1ee08ae6079abb8b6a2531ca7fd31c635019c7410c2c0ac80e9"
+
+[[files]]
+file = "emojiful/cache/sweat-1"
+hash = "a71e1f4a89fd5860254a1cca7c3c76afd578bcc14e7b4b6ad1e47b8957b4132a"
+
+[[files]]
+file = "emojiful/cache/sweat_drops-1"
+hash = "6f587fc4b592dcee7d999f416d755fd857efb6f255d5dcfa7d166dfc93cf5027"
+
+[[files]]
+file = "emojiful/cache/thinking_face-1"
+hash = "bb56f94745045ad0b0f3ed82262899de0e470f2d6c88df3c11124aaff5e0c3e6"
+
+[[files]]
+file = "emojiful/cache/thonk-1"
+hash = "bff43537e6de2363ed354ab771c6710f9a89e5b5631981f2adf5def42398414f"
+
+[[files]]
+file = "emojiful/cache/thought_balloon-1"
+hash = "09e0aaf854502ce9d7909c25241e758f2af936344b79bee623342716a06aeb25"
+
+[[files]]
+file = "emojiful/cache/tired_face-1"
+hash = "e2c90f016cf9b4c3dddca866fa9bd60c5f8ab3fc048b307e9e2f674804a41b6a"
+
+[[files]]
+file = "emojiful/cache/tokimicheers-1"
+hash = "074e1b45c7134c40253ce8ddb8dbf72f912971931c033169253453e3853af519"
+
+[[files]]
+file = "emojiful/cache/tokimicocoa-1"
+hash = "3f620ba94b2df8a3157f619b95babb03ec51b6a09851c37ae37b602cffc25bea"
+
+[[files]]
+file = "emojiful/cache/tokimicool-1"
+hash = "1c42f6fb01ace67b844aba11d1da37b4f49374a1b72ca941fb055db8c0c9356f"
+
+[[files]]
+file = "emojiful/cache/tokimicozy-1"
+hash = "1fffc3c5faa86d706d7b21ca35397a556429417c55b8e58672fe231256a49d0c"
+
+[[files]]
+file = "emojiful/cache/tokimidead-1"
+hash = "35784c5df3441d02cc951b09ffb536269065e686f09c79b5e04a537b5f409fb6"
+
+[[files]]
+file = "emojiful/cache/tokimiderp-1"
+hash = "d19fc0b2429868cd3230727aa5fe9fd7e3f8d2efa3fabba15cebb9efabf05572"
+
+[[files]]
+file = "emojiful/cache/tokimiderpy-1"
+hash = "203a7559fa8c8993c42e43e51dd3e5c10c13e18559a64d7e8a65458454c2b945"
+
+[[files]]
+file = "emojiful/cache/tokimidrink-1"
+hash = "b6552da753add4a1cf53a65d0a3f5b6395f28deccbfc0f03bc315729d6cdd209"
+
+[[files]]
+file = "emojiful/cache/tokimigm-1"
+hash = "a36142ff4b3dfa4daa071e7641f3cf2d6b1ba9674b6349f536a3ab679a7c9af3"
+
+[[files]]
+file = "emojiful/cache/tokimigun-1"
+hash = "8f463f32dd8b2362b67152f20270cae48a38c6d2aebb8ef926109d4bdda28009"
+
+[[files]]
+file = "emojiful/cache/tokimijam-1"
+hash = "437753912c69efe55b8d758a892bc89f267eed79fd75f27190a72dfdc8f7d7b0"
+
+[[files]]
+file = "emojiful/cache/tokimilaugh-1"
+hash = "f6c954bfb8e0a4956db0c09aa3a9ff247bd54a48e860634459031fd84bfb1e65"
+
+[[files]]
+file = "emojiful/cache/tokimilove-1"
+hash = "7b732f61f81e969d5fc7610bf50b46f5ecec4465940e548022b6f0c37d108e12"
+
+[[files]]
+file = "emojiful/cache/tokimipog-1"
+hash = "f9b30b74ed064e01bd770b705475d59edb310786d1fc4321deaeb27204857d01"
+
+[[files]]
+file = "emojiful/cache/tokimiraid-1"
+hash = "1aacfce331b442843869acf7a53332a60c564bad37d94a1e2d497f496459f156"
+
+[[files]]
+file = "emojiful/cache/tokimisad-1"
+hash = "e8ff206755632f7867921a9addf423d633695ba1a034a17dd052b1c52d4e550d"
+
+[[files]]
+file = "emojiful/cache/tokimisalty-1"
+hash = "cc6f147dda001bfe9529119b8baef646259a09c4727e32c9b483c0518dfdd602"
+
+[[files]]
+file = "emojiful/cache/tokimiwink-1"
+hash = "dd59cb88013e84566d8d2114bbadfa72cdd9dd38e2431c352bd794aa10f71a9d"
+
+[[files]]
+file = "emojiful/cache/tokimiwtf-1"
+hash = "8db3539e6765d70679f3020f55b88f07a68d315a61317a8e6f74d47503b06555"
+
+[[files]]
+file = "emojiful/cache/tokimiwyd-1"
+hash = "ce24ee320de39dd64a84b493b4a7e01385be7ef8a3042da65ddc6516ef7701a8"
+
+[[files]]
+file = "emojiful/cache/triumph-1"
+hash = "64ed77519376ec05c35535e8b8893ff95635dff3f522e3a0af46ef6940491c00"
+
+[[files]]
+file = "emojiful/cache/two_hearts-1"
+hash = "29058c580fed26f15982ce7c624abbe507acfe2e0a7706588007b393862a5fda"
+
+[[files]]
+file = "emojiful/cache/upside_down_face-1"
+hash = "9414761ea027fee20bd0858a41e648207ec68ac53fd68cfc99781e20799d4f85"
+
+[[files]]
+file = "emojiful/cache/watermelon-1"
+hash = "49f0ff706cf1af6ac99221a9a9c19199e55fb27e5eb501dd808e8bb4eb58996a"
+
+[[files]]
+file = "emojiful/cache/weary-1"
+hash = "7838a697399990a19ae95f541230d7886d18b045bcde6cf0b96396f0603d5e8a"
+
+[[files]]
+file = "emojiful/cache/white_frowning_face-1"
+hash = "20b358a4fe16b5b026a321545dcdbdbeda8d89eedfacfb1ccc463c0c675df37e"
+
+[[files]]
+file = "emojiful/cache/white_heart-1"
+hash = "b1db871ce4fed5417a85b1fa3993da3b77fa8f39f210e6c84e7e1b1a7c60df24"
+
+[[files]]
+file = "emojiful/cache/wink-1"
+hash = "1a7228a73f6b7e8f914a67102971d33e6440e8ac64cb84e549ed03d9982d6e2b"
+
+[[files]]
+file = "emojiful/cache/woozy_face-1"
+hash = "45efe9c4f82118d9f307b494bd30b6089cd1f7d6a1216a5f69d624dfa0eaea00"
+
+[[files]]
+file = "emojiful/cache/yawning_face-1"
+hash = "89a28faadb690408ae9ef6fcc7513cebf415aed314932f2df86a555214d95787"
+
+[[files]]
+file = "emojiful/cache/yellow_heart-1"
+hash = "14518387d969f771adef1ea4e3e3b0037057e3f33c3cdd8b1329c65cccbd40f4"
+
+[[files]]
+file = "emojiful/cache/yum-1"
+hash = "27cca43a0cd285126ba4710a1700b6afc7681c062c26c9b86aef3acbc9869543"
+
+[[files]]
+file = "emojiful/cache/zany_face-1"
+hash = "97bff1843d1959256b9d1759e9ea6c4c9dbbcfefb861bbf3fd31612784a81794"
+
+[[files]]
+file = "emojiful/cache/zipper_mouth_face-1"
+hash = "109a76c73f9569913b1aa266a6df806d9e5f9dd7e91fb3516f28922f1937ca86"
+
+[[files]]
+file = "emojiful/cache/zzz-1"
+hash = "21a642ea28afa996d031886b36c968b332fd308b9ddbc2a38ebe46f1451afe00"
+
+[[files]]
+file = "fancymenu_data/last_world.fmdata"
+hash = "fc96844ca7ecb7ded8193d7b14965e791df0a8cfd038330141a2243320fe569e"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/amd_drivers.png"
+hash = "1f97a8df3258d47c4930c088f7335a80e776c670bbe77d391a1ce0f3f4641062"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nvidia_graphics_card.png"
+hash = "365ea9fa3d2c6481efce02ae73324dd6a4c97d1f539dfa90f56b39272e7b15b9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/obsidian_upgrade_smithing_template.png"
+hash = "2b9a1ee018a07b221226a40c41af328c9003501009ee51246aa932fdc415a69d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ram.png"
+hash = "f26dd49f932cb1c32d7bac45de53ec1d77f96173658fb2ffcff3badb94f826d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shiitake_mushroom_soup.png"
+hash = "9b1ab11b68d4d37b1182de094f5eda47ef02e2cde7e7c76a97500a7b469be54b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "10c796dad0e37f594a5a8faf64f93a4c78f838f84632d248bbeff982b980f3c9"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "a2d93fd4fe37ace988afd9fb21cf95fdbcc138424060f262fb29654744866baf"
+
+[[files]]
+file = "kubejs/server_scripts/amethyst.js"
+hash = "e7e98d1778363e6200959a113cfd62a5f0a2bfd8b4c18aa6b95cd868e750a8e2"
+
+[[files]]
+file = "kubejs/server_scripts/cinnabar_redstone.js"
+hash = "f997fb9c06568b12a06b9e099887f7fe58b827b45addf7441170e60676de44d9"
+
+[[files]]
+file = "kubejs/server_scripts/cluster_recipes.js"
+hash = "fb705c517bddfbaed94033430c665aa1d0c50e4a5bebf7ee05b8c927337a8687"
+
+[[files]]
+file = "kubejs/server_scripts/copper_nugget.js"
+hash = "4fc329485333d65b2400052de80a8782f0a2a27d7246885d48b83315c91417fe"
+
+[[files]]
+file = "kubejs/server_scripts/flour.js"
+hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"
+
+[[files]]
+file = "kubejs/server_scripts/furnace_fix.js"
+hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
+
+[[files]]
+file = "kubejs/server_scripts/hops_based_beer.js"
+hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"
+
+[[files]]
+file = "kubejs/server_scripts/resin.js"
+hash = "111eb712101e160e96a7d6ff8d3125f6c0df3909428fad53eb26401d0c36e599"
+
+[[files]]
+file = "kubejs/server_scripts/spyglass_flex.js"
+hash = "1b526d7bbda60d50b6f40bf30c92e0b64c71f8530159ac83836a38c67fc2cbf7"
+
+[[files]]
+file = "kubejs/server_scripts/string_fix.js"
+hash = "e50be98fb05801a500e94ccaacdaa0ab30be6fa321a57dba0c51b3a1caaab0ff"
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries_presents.js"
+hash = "e61d958bdb14bc82858ef1d8d396690b49a603ad37324f91047e656a997a86ef"
+
+[[files]]
+file = "kubejs/server_scripts/suppsquared_daub.js"
+hash = "905ffab7c842d8849798e612df7d99180ca338b912dd7f62735b811ea5563c83"
+
+[[files]]
+file = "kubejs/startup_scripts/amd_drivers.js"
+hash = "1421c6ca0cf25a4e14b2edc4259e291670d13c804cc52c58eb061b4147a5eaf9"
+
+[[files]]
+file = "kubejs/startup_scripts/homestead.js"
+hash = "c67ab0e999cfed3749e4123773f89980accdb19bb2a6b378dc6b6e30dbcddeb7"
+
+[[files]]
+file = "kubejs/startup_scripts/lyn.js"
+hash = "8362a3b9f43177fe4244071bb4ecab459a66149f9a58c97df885e3ddeaf462c6"
+
+[[files]]
+file = "kubejs/startup_scripts/mortar.js"
+hash = "433562d748a21933545ba1c6c4a4caec36e7c4b24575451d185371fc9e5effc2"
+
+[[files]]
+file = "kubejs/startup_scripts/nvidia_graphics_card.js"
+hash = "efa59ecd7f797d6e5bc12e04c42a76850ae0906a38d51c08cbc806cfda4faee2"
+
+[[files]]
+file = "kubejs/startup_scripts/obsidian_template.js"
+hash = "53c0b57d86d54b55fd8c9ce0fe58e1443b4ce1037c8bdfd14a24e5b2cb40d0bd"
+
+[[files]]
+file = "kubejs/startup_scripts/ram.js"
+hash = "d04c91c0a4f86ef4fc72387110abe617a66769fe27e8606ac541fb73d2de13c9"
+
+[[files]]
+file = "kubejs/startup_scripts/shiitake_mushroom_soup.js"
+hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"
+
+[[files]]
 file = "mods/AdvancementPlaques-1.20.1-fabric-1.6.7.pw.toml"
 hash = "16b42f75772d287f1408938b365b865b296f014e3c486fa63902c5b28b76e336"
 metafile = true
@@ -4960,6 +6092,50 @@ hash = "07b0a113b5d5989bb9ebf18cf951661c244d6ee626bf4665236c13b34bdbb3eb"
 metafile = true
 
 [[files]]
+file = "patchouli_books/homestead/book.json"
+hash = "3d7348d2615a64540d11ff6c890fb0a707dc32a87840af0e57be1076141dc793"
+
+[[files]]
+file = "patchouli_books/homestead/en_us/categories/basics.json"
+hash = "0200c91db566bffc8e215aa9acb183ee2e183627fc0f2d8ea53408be3e5078da"
+
+[[files]]
+file = "patchouli_books/homestead/en_us/entries/blueprints_and_builds/blueprints_and_builds.json"
+hash = "78b83cc5708ba70cf3a1c3322d49334ed1cffd3c933ed7faf19fbff6e078c9fb"
+
+[[files]]
+file = "patchouli_books/homestead/en_us/entries/intro/intro.json"
+hash = "132fb3c511551da1d02fe42c40b226bb6dbd1568ad0335d7a75795991cd527d5"
+
+[[files]]
+file = "patchouli_books/homestead/en_us/entries/lore/lore.json"
+hash = "bd995fa4c58838627b09bcbae31ca82d546d60f96b2ddbe95e4b9cedf25c3435"
+
+[[files]]
+file = "patchouli_books/roots_take_hold/book.json"
+hash = "950d5c7bcc097e863ba2895bcdf28f9b24eb06b4a70bce14a1a4058b005603f3"
+
+[[files]]
+file = "patchouli_books/roots_take_hold/en_us/categories/journey.json"
+hash = "5f1b83000a0482fcee029d5ffe3c2186ac918f898be292e2ca0c1586cef65c95"
+
+[[files]]
+file = "patchouli_books/roots_take_hold/en_us/entries/journey/journey.json"
+hash = "8e2c30c18cc0ce1ca3151730bae6978b92c267ed128ff6df6e255669bbf85c25"
+
+[[files]]
+file = "patchouli_books/welcome/book.json"
+hash = "b2d867d3a4a9c7e556c8c69a784ac4d57eea692a0698f821d1e07d2fdb17c386"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/categories/welcome.json"
+hash = "b6a677c821bccffb1d007b260635f5c3f189e696b5ed67fc5f14d7ed7c5fba3f"
+
+[[files]]
+file = "patchouli_books/welcome/en_us/entries/welcome/welcome.json"
+hash = "4e3b91aca1c6d4f65b2c67ce65461cc60701dff9d166fcff58578c76a991fc00"
+
+[[files]]
 file = "resourcepacks/Fancy_Beds-v4.1.pw.toml"
 hash = "09c546a630ac61fc5cdb33e792329ddeb515bd24694eac7d3a60e41d0a54b51d"
 metafile = true
@@ -5763,6 +6939,218 @@ hash = "a957b0ff9f5e679574a0c88a26a35f2dc3d20a2f524378f85c5159d18e7b7d8f"
 [[files]]
 file = "resourcepacks/Stay_True_1.20.zip"
 hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
+
+[[files]]
+file = "scripts/mods/AlcoCraft+/keg_test.zs"
+hash = "4f1ef7f8636fb6b931f8174df49d247f0144ad84b527f06db1e0c4b24ffbb440"
+
+[[files]]
+file = "scripts/mods/Compat/appletrinketfix.zs"
+hash = "1ea391e2b6ea0ee46740dc40890206d270fc09f54e6dbb45084d5883fcbade9c"
+
+[[files]]
+file = "scripts/mods/Compat/bater_wucket.zs"
+hash = "618c5bba55f67a37d4b306240c13dc5b7e006c320e4ea656b21962afa3315b9d"
+
+[[files]]
+file = "scripts/mods/Compat/butterfly_wings.zs"
+hash = "169752f5ae09c34bf7b6e8b6626b748e4ac290daacc75a7f20aced69b3c70a5a"
+
+[[files]]
+file = "scripts/mods/Compat/explorers_compass.zs"
+hash = "16420e5c98eef64d55bca157249cfbc3f427c0c4704ae3e8884edac70f35c874"
+
+[[files]]
+file = "scripts/mods/Compat/farmland_fix.zs"
+hash = "87efd684fe5cc17a9e82612fa25e4651d45424e5c90cf196e5520e1335e5031e"
+
+[[files]]
+file = "scripts/mods/Compat/flour.zs"
+hash = "09a5e6f6078e5a521907d779c8a88bacf6d9242972b983dff0b5b41ed39d756e"
+
+[[files]]
+file = "scripts/mods/Compat/hammer_changes.zs"
+hash = "e3b9291655b44587844553d2a6ab920675ab9c9d322bba07bf7682f392ed3830"
+
+[[files]]
+file = "scripts/mods/Compat/hexalia_mortar_and_pestle.zs"
+hash = "4437f801947d60572a91ba4f72c40582958e01f53ddd6eff3f2fd7b36d14924c"
+
+[[files]]
+file = "scripts/mods/Compat/loot_table_fixes.zs"
+hash = "548fd5cc028e50db55e739e50554f30b6001365b0a852cdb2189c99e1afb46bd"
+
+[[files]]
+file = "scripts/mods/Compat/mod_compat.zs"
+hash = "485844ae352e8bbd7f55044302f4379c947282f51d2c811d805221cfea46e751"
+
+[[files]]
+file = "scripts/mods/Compat/obsidian_tool_tagging.zs"
+hash = "2a1209913dc9d87c7e3a659a36c041436a8a3de3b834d1a85cd13ebb0fc6a3ee"
+
+[[files]]
+file = "scripts/mods/Compat/questbook_recipefix.zs"
+hash = "d33142f0889bf1f7d108b6a144564753c1661bbfceced6cd2636a475534f0ebd"
+
+[[files]]
+file = "scripts/mods/Compat/remove_prismarite_cluster_trim.zs"
+hash = "6a82ad1500f05c3c6841f52fa116d1c85a0d7acf3a35b973de4e1c520b285f24"
+
+[[files]]
+file = "scripts/mods/Compat/rope_arrow.zs"
+hash = "e63133333e23874f9fd85414d4300fa0d6be55424aa67f87e95086728f5c52e4"
+
+[[files]]
+file = "scripts/mods/Compat/stack_upgrade_balance.zs"
+hash = "42b1905af35eea48c21f855b90e405c961b61a3c2f24adb8563d299a33a8d679"
+
+[[files]]
+file = "scripts/mods/Compat/stone.zs"
+hash = "423cb58d653efcc2fda163ec1d0edb982be97752b6071551a1e2e3614d85203b"
+
+[[files]]
+file = "scripts/mods/Compat/via_romana.zs"
+hash = "dcfa1a864d62f80e334853e26e668dcbb013eeeaf278c3ae328395c07ec8fd25"
+
+[[files]]
+file = "scripts/mods/Create/coin_smelting.zs"
+hash = "b73aafe6994a417e9b8502eedaa40ccc4e7a796b23e0d64b863df13e7d62df87"
+
+[[files]]
+file = "scripts/mods/Create/create_milk.zs"
+hash = "beb69cc2f6dba0c4294dba6618e26101f25a180793b1721bc73e245e700275bf"
+
+[[files]]
+file = "scripts/mods/Create/createdeco_recipes.zs"
+hash = "b6854251df5bbe391277d1b79929a98c9864896a9b14a4b73e6ff0d355d4a29f"
+
+[[files]]
+file = "scripts/mods/Create/ore_processing/main_processing.zs"
+hash = "e12ae88f850a9534a9e12223530437fae12d65c9155ae915d027e98e17439888"
+
+[[files]]
+file = "scripts/mods/Create/ore_processing/silver_additions.zs"
+hash = "686711fbb8ff9f8ad42da8102cd177cca6946732b236c1391edd783e79693f80"
+
+[[files]]
+file = "scripts/mods/Create/peaceful_blaze_burner.zs"
+hash = "daa19067cc9ff0d34e71fa2254818a4c9534e3351a96bbfe3385633b1984f717"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_compacting.zs"
+hash = "d761a12d0b1bd0e0c04120a75152482e238146115ea278d1e0e60fedb1057695"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_crushing.zs"
+hash = "5361ae22ef40919f2d352bee2c842c881ae15ee67c7a9cfa936a59a39fe02f9b"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_deploying.zs"
+hash = "1b98f4f7ada4a721c453deb8dd8b02534a464dfb8ca22c489d35affbb8d9ea7c"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_haunting.zs"
+hash = "a0ed6a5b2708d4edd6bd8d4691c0cf965894d422e0d4f64b3d370e46239aeffb"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_mixing.zs"
+hash = "d2d9ed171d8f15eec56991e308614df56866448ec6cbd03d0fc80710f69a8e39"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_pressing.zs"
+hash = "d5fbf00d20c5979141498d4bb9d264c9bf7cde63b716e021663cc0ec3a055a2d"
+
+[[files]]
+file = "scripts/mods/Create/renewables/renewables_splashing.zs"
+hash = "39e02215f214a4ea3e52de6b375edfb6f51685c13efeefb0957ec302f465ee50"
+
+[[files]]
+file = "scripts/mods/Create/renewables/sandpaper_polishing.zs"
+hash = "8cdac4bb17feb5c7a27903bf92b5fd00d5396c2b40683cb26b2e1db0eeedfecb"
+
+[[files]]
+file = "scripts/mods/Create/vault.zs"
+hash = "abf8e699bd585e9f79ac8546f5c6b2a9833af5d4f22a0f2b6a83c26e6a696b5b"
+
+[[files]]
+file = "scripts/mods/Custom/amd_drivers.zs"
+hash = "6ae6c8819795add827feb2e88b73157348cfa194fc4c739eb9f9065393a0e42a"
+
+[[files]]
+file = "scripts/mods/Custom/custom_smithing.zs"
+hash = "3f0451155298dcf07df8fcfcf2acc9e90e623e0fa023456d7fbf9c5e1614aa82"
+
+[[files]]
+file = "scripts/mods/Custom/elytra.zs"
+hash = "4ede4510a2a3b5a1b377696fcb6b76eed2ef57b0e8cfcb6bcd203d8556439979"
+
+[[files]]
+file = "scripts/mods/Custom/logo.zs"
+hash = "c4bc99cd57e0f3d6f0ee3b7fd26b9e65c0af201f53d8264d954d85de942f2018"
+
+[[files]]
+file = "scripts/mods/Custom/lyn.zs"
+hash = "83850d3adae4b5d7fc81646da85da4b3b90b6a76ae07c41728ce66663e0cdf7c"
+
+[[files]]
+file = "scripts/mods/Custom/mama.zs"
+hash = "f2946c83fa07888c79611d21e0ac34e431abe4d664f891a5dfc6d5f5138d792d"
+
+[[files]]
+file = "scripts/mods/Custom/nametag.zs"
+hash = "a038d5b9ecc62a3a7cbfed00686c6ba6a5d049f1f3e145a8a684020ead4e52cf"
+
+[[files]]
+file = "scripts/mods/Custom/nvidia_graphics_card.zs"
+hash = "568df00d700392915fc7a379f4386695798e6da6d1c1165e6eeeb8c1c4c2f0c1"
+
+[[files]]
+file = "scripts/mods/Custom/plushies.zs"
+hash = "d5ddcaa7d0932da9121ae79a1802a92686e038058e2d1094c241797f56ec9541"
+
+[[files]]
+file = "scripts/mods/Custom/ram.zs"
+hash = "b069eb573fba6e0cf703b2452041e41c6d37a9fa0d5e59ef07fe97c034318616"
+
+[[files]]
+file = "scripts/mods/Custom/saddle.zs"
+hash = "95ba0e3e3cdc853490cae331b229eb83c297a9ca08b5e541f68177218041ea31"
+
+[[files]]
+file = "scripts/mods/Custom/shiitake_mushroom_soup.zs"
+hash = "42ad5f240eea6cfe69f1cb62fd5451f46d304eb6adb436012562294295669ea7"
+
+[[files]]
+file = "scripts/mods/Custom/template.zs"
+hash = "ddaf2957cfd74fd42a2ced4d860c5135b110c4ea3257af389c7d04da3869b71f"
+
+[[files]]
+file = "scripts/mods/Custom/toadstool.zs"
+hash = "a5013207aa25c9e2fe3a2a80c678ea1a322258d70127b5384ba23228ec8e63d2"
+
+[[files]]
+file = "scripts/mods/Custom/tuff.zs"
+hash = "d49995d236d0c02c62aab5c40cfadea1c5b3b02e1fd8705d4542871302bc3229"
+
+[[files]]
+file = "scripts/mods/Mythic Upgrades/armor_attribute_buff.zs"
+hash = "edb0c74f23181b94263bea6062706e5ff3d2a1c3d5306d99f6332133d5ed857b"
+
+[[files]]
+file = "scripts/mods/Mythic Upgrades/armor_crafting.zs"
+hash = "79fd9a304d0d1669cfec2321bb4f3e28bc36e5f6760e190b33f494262f0aefe2"
+
+[[files]]
+file = "scripts/mods/Mythic Upgrades/mythic-upgrades-changelog.txt"
+hash = "d8704cd77106819049409f5a0d5f4f6ec4594cb7f90b3683e876bdc607e21e55"
+
+[[files]]
+file = "scripts/mods/Spelunkery/ironpickonastick.zs"
+hash = "df7864966710b407e5ab16098db86ab5e502f0f4dad1819010e434e8a6724a73"
+
+[[files]]
+file = "scripts/mods/[Let's Do] Brewery/hops_based_beers.zs"
+hash = "aea899e0b3f96ece5584824618f704d2abed4633587199878833241ef5931de3"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1.pw.toml"
