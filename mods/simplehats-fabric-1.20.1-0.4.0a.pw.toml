@@ -1,0 +1,13 @@
+name = "simplehats-fabric-1.20.1-0.4.0a"
+filename = "simplehats-fabric-1.20.1-0.4.0a.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "d14044c4741329a8981458018a4a49c1ea32c0c6676466f01f00e4227e075c137b585615f51198343fe80d7da8051ed424a84385f5961fd7067624a7c1eecfee"
+url = "https://cdn.modrinth.com/data/iSkQCp6b/versions/vcsAZ7Ma/simplehats-fabric-1.20.1-0.4.0a.jar"
+
+[update]
+[update.modrinth]
+mod-id = "iSkQCp6b"
+version = "vcsAZ7Ma"

@@ -1,0 +1,13 @@
+name = "jdk_core2-1.1b"
+filename = "jdk_core2-1.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "38e636af9c29c2ec299875c59e3cdbd2467431197cad7daf191157dc5886c666c7610e9ba8a947621fae98608ed70faf1125ca8c5e11713679301abe164d8e9f"
+url = "https://cdn.modrinth.com/data/kMMX9x2J/versions/hEbmLsCL/jdk_core2-1.1b.jar"
+
+[update]
+[update.modrinth]
+mod-id = "kMMX9x2J"
+version = "hEbmLsCL"

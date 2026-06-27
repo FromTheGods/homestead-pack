@@ -1,0 +1,13 @@
+name = "jdk_mgu2-1.1b"
+filename = "jdk_mgu2-1.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "f1002cae65aee681f2c4a0c0a403fe2ebb6ec9ddbf8206b3fb3ad01828c758ccef43e741d5078c3613a55de7976fcef5a6d6b02a65c558ae98d2cbe008d49623"
+url = "https://cdn.modrinth.com/data/Wg1aoo5a/versions/hyPe10rA/jdk_mgu2-1.1b.jar"
+
+[update]
+[update.modrinth]
+mod-id = "Wg1aoo5a"
+version = "hyPe10rA"

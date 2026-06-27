@@ -1,0 +1,13 @@
+name = "tokimistoolshed-fabric-1.3+mc1.20.1"
+filename = "tokimistoolshed-fabric-1.3+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8b5def152bbfd2cc312ee51390cdd55460492de1485eec7e5ad98187b9cb2d39cb86c43e654cf7b188a539f69c85a81875e5f77298fa0412af85a55713fddb6b"
+url = "https://cdn.modrinth.com/data/2HaoWnJc/versions/vFVIUwBK/tokimistoolshed-fabric-1.3%2Bmc1.20.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "2HaoWnJc"
+version = "vFVIUwBK"

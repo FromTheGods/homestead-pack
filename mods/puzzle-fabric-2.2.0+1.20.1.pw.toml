@@ -1,0 +1,13 @@
+name = "puzzle-fabric-2.2.0+1.20.1"
+filename = "puzzle-fabric-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "559d82d18f1d56eeadb54dd0ae3e3bbc82bbe6ae9ea6caf48e16806920a7a6e6c4e7f3b34d67f97b8d0875f30382a944494eeed7769c15395e1f0fa594f871bf"
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/cG5QV3Tj/puzzle-fabric-2.2.0%2B1.20.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "cG5QV3Tj"

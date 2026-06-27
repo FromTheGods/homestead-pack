@@ -1,0 +1,13 @@
+name = "Mo-Glass-1.7-MC1.20.1"
+filename = "Mo-Glass-1.7-MC1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "8babb9f5045849b2144c51491638277448185bf22fa69b980ef6caa1c2c16023204aaa9d38ec3833b8114148b4e39b4568b7c27e4d62cd0ba59aafd8233dc69e"
+url = "https://cdn.modrinth.com/data/SI5mk2b6/versions/IxENJp0J/Mo-Glass-1.7-MC1.20.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "SI5mk2b6"
+version = "IxENJp0J"

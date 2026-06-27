@@ -1,0 +1,13 @@
+name = "Celestial Configuration-fabric-1.20.1-1.1.1"
+filename = "Celestial Configuration-fabric-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "c61c49f86141a08d4aeee3102bfcb72ca5dba37de3ae0968917435256e8574b9aad55a70bbf83e536f93d822807dc2ffc529e2bb1b97b8101a62aca29acc8664"
+url = "https://cdn.modrinth.com/data/C5tEOKu9/versions/wCZadXy8/Celestial%20Configuration-fabric-1.20.1-1.1.1.jar"
+
+[update]
+[update.modrinth]
+mod-id = "C5tEOKu9"
+version = "wCZadXy8"

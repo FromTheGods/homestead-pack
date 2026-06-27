@@ -1,0 +1,13 @@
+name = "createcontraptionterminals-fabric-1.20-1.2.0"
+filename = "createcontraptionterminals-fabric-1.20-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha512"
+hash = "02dbd91278304825a300526e3dadec84988de60d8e221079faf259de0a43ee54a0fbcbebff2703985decb7f741720846e59a148bf92c9f30396772caff187c2a"
+url = "https://cdn.modrinth.com/data/gOPAFzp0/versions/WIS6BQn2/createcontraptionterminals-fabric-1.20-1.2.0.jar"
+
+[update]
+[update.modrinth]
+mod-id = "gOPAFzp0"
+version = "WIS6BQn2"

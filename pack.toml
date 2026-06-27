@@ -1,0 +1,13 @@
+name = "FromTheGods Homestead"
+author = "FromTheGods_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c5a832a1a02a5e3e57e70e8c973248c9b5aa3b52d8b0c995b0602c211992833f"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
