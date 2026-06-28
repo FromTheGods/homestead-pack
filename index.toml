@@ -5148,6 +5148,11 @@ hash = "be015fcb8d903d7310e468362a5a6f7caafd36e79b0fe38fc6ab4ca40ae0fd35"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "858b7118ce19537e0833360fbb636ff070639799a0d14b471e05aa834a8673c7"
+metafile = true
+
+[[files]]
 file = "mods/friendsandfoes-fabric-mc1.20.1-3.0.9.pw.toml"
 hash = "6037f6bffe2b962ea51a90a19956d8df200fef6dc7f7aa6ce52d8fd8e81b318e"
 metafile = true
