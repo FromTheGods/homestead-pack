@@ -4940,6 +4940,16 @@ hash = "12699e11d2857ea49c7948ea55f4e1f6e04fb266284ce15c6bf749558977dfc6"
 metafile = true
 
 [[files]]
+file = "mods/create-connected-fabric.pw.toml"
+hash = "efe5542cbdcd7147d5a4bce6d078eeaa2d7520a40503fde13a447a229827e44b"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric-(create-6).pw.toml"
+hash = "40cd33e3a5a7eeca4870d0331f498ef569d2dfdcb3fff918d88ffd67487dabc7"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.pw.toml"
 hash = "b2c1a535ff81dec08bb8a1c8f314595c6ca575490473b98230ef6d7d18bbf9ce"
 metafile = true
@@ -5036,6 +5046,11 @@ metafile = true
 [[files]]
 file = "mods/dummmmmmy-1.20-2.0.12-fabric.pw.toml"
 hash = "4d6e21a869365c25b12983066db0ee4fbbd81717c03f87b4bd407c056ee55003"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-village.pw.toml"
+hash = "dbb2f3c87ec3d79b99ff54b31fb9546c13749c8583e27e0fb0a89d01595dd3bb"
 metafile = true
 
 [[files]]

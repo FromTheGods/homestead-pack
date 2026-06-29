@@ -1,0 +1,13 @@
+name = "Create: Dynamic Village"
+filename = "dynamicvillage-0.5-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c15259d49dfb6c719711510249fd118263ca04a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8262134
+project-id = 919759
