@@ -5698,6 +5698,11 @@ hash = "4193811c5cc3eddbfffc7b04f19682161e5b0ba5ff3668db6643204819511ed7"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "0f8b748652e9adeb12bb3622aed810d3a536a48919d42e319fcb3d07c43974e3"
+metafile = true
+
+[[files]]
 file = "mods/preferred-gamerules-1.1.1+1.19.4.pw.toml"
 hash = "bb0e6d483d20aff6aadf81e9b28d5d8dcdc529974ace9ec21871e2f38bc5d2e4"
 metafile = true
