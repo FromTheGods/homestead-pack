@@ -4955,6 +4955,11 @@ hash = "1ae65ad750b04e876112e3653ef02f4c279b14a2f26702f638a055e2b121684c"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "97fa95db99748805bfb5dd844fee528d6fb67c492e6366681ef657bbc7820a5f"
+metafile = true
+
+[[files]]
 file = "mods/createcontraptionterminals-fabric-1.20-1.2.0.pw.toml"
 hash = "7b1e217e80af2a9fbf0bded2b21f50ff859fd084cd25a13ef7b8705068ad50af"
 metafile = true
