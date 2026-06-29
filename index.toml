@@ -5863,6 +5863,11 @@ hash = "ae096c056253f568f20367391acad93d0385d6679fa0ef8e0e0fe525866c136e"
 metafile = true
 
 [[files]]
+file = "mods/soul-shards-despawn.pw.toml"
+hash = "1fe009ca13f8b17c35df4111fe527c6d3c992c2f19571bb0eba6fd113ee4430f"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered-fabric-1.20.1-1.5.1.pw.toml"
 hash = "89df6dfbaaf5c4edcb5605c05a0a942c33d2ae1c359084bc19e399ad35bc4ed8"
 metafile = true

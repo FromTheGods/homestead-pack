@@ -1,0 +1,13 @@
+name = "Soul Shards Despawn"
+filename = "soulshards-despawn-1.20.1-1.2.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpNGsSsC/versions/s84cfK8o/soulshards-despawn-1.20.1-1.2.5-fabric.jar"
+hash-format = "sha512"
+hash = "96702821f955e53a7ad03412b9ddcbd26e70811fe71cf35451856ec59021f43d5f0ef41c21fe6072c995988908f49d8cf614f5b25ce5c6f90a0ae9b41896f945"
+
+[update]
+[update.modrinth]
+mod-id = "MpNGsSsC"
+version = "s84cfK8o"
