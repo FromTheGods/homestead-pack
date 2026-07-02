@@ -4915,6 +4915,11 @@ hash = "c3d637f5c88f9d9249d2b7f4c83f6aa76335b79f1e35beeaba418a010d5d7136"
 metafile = true
 
 [[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "0f4dae68f53fa95adfcff82a0b1b1b9e530551359aa1e7a3d89d48454c9a2e7d"
+metafile = true
+
+[[files]]
 file = "mods/copperagebackport-fabric-1.20.1-0.1.4.pw.toml"
 hash = "6a0d264870a8401867330a94dce54660fa52896ec6f5dc09d02da33831fa9639"
 metafile = true
@@ -5280,6 +5285,11 @@ metafile = true
 [[files]]
 file = "mods/hexalia-1.3.2-1.20.1+fabric.pw.toml"
 hash = "11175399c98947d17918d0306fdb4b83488b43b39b68b726f0eb04cd055919d6"
+metafile = true
+
+[[files]]
+file = "mods/hopper-gadgetry.pw.toml"
+hash = "d88a377e39483ddaeb156d5c9ae4aff0bd2b1a035e0c56c4a0ab7e9360475468"
 metafile = true
 
 [[files]]
