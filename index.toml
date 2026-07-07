@@ -4785,6 +4785,11 @@ hash = "4ec442ee4aedc3b46bbfef9dab2da6a2ae1ef30d1eb558d6feaae2e283dd0ba4"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "948e2afde3a7a98cca263230450e50d861fdd8984c87a464897c17a3105c6037"
+metafile = true
+
+[[files]]
 file = "mods/beautify-2.0.0+1.20.1.pw.toml"
 hash = "4c2ec7b42d9c03f3210ac189761a35cd3265b980f429917fe176b30eb9a2caa2"
 metafile = true
