@@ -5079,6 +5079,16 @@ hash = "552b4a687a3801c46988dd1b31ab770f9fc15fd81df35290c939b84a39788291"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "7a3a066a9e6da4873a54bdad10e6749be5d32026decbc83bd4ebe59f60b9f97f"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "5c69735ba1d5e081a9cadb9bcfea554c3a7232fe38a8f71a4fca89eb97b2479b"
+metafile = true
+
+[[files]]
 file = "mods/ends_delight-refabricated-1.20.1-2.5.pw.toml"
 hash = "2ec097747231da327715377d539ec75e9b901b16b28f6b96024c54a5672128c6"
 metafile = true
@@ -6109,6 +6119,11 @@ metafile = true
 [[files]]
 file = "mods/watut-fabric-1.20.1-1.2.3.pw.toml"
 hash = "a02a5735c13cd0b2d0dccdc899a44b433ecfa0b8dff1fd279578f6d4f867fe53"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7cd814db4d5e755d2923b3a4212fe1468468624d102b239a70eafdbe8e0eda98"
 metafile = true
 
 [[files]]
