@@ -4970,6 +4970,11 @@ hash = "efe1eba1eeb156b4efaafe48fb095dc4221b1c2c57e16e703aaf6e21026f2df5"
 metafile = true
 
 [[files]]
+file = "mods/create-stone-generators.pw.toml"
+hash = "48366f6c2d5d3422a518c1db035f6c4fdaf74b562571d271539a1dc3892004e6"
+metafile = true
+
+[[files]]
 file = "mods/create_oxidized-0.1.1+1.20.1.pw.toml"
 hash = "1ae65ad750b04e876112e3653ef02f4c279b14a2f26702f638a055e2b121684c"
 metafile = true
